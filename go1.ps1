@@ -1,7 +1,7 @@
-echo git add .
+echo "git add ."
 git add .
-echo git commit -m "add line2 into test1.txt"
-git commit -m "add line2 into test1.txt"
+echo "git commit -m "add line2 into test1.txt""
+git commit -m "add line4 into test1.txt"
 pause
-echo git push url3 master
+echo "git push url3 master"
 git push url3 master
