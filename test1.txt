@@ -1,10 +1,7 @@
 line1
-line3
-line5
-line7
-line8
-line9
-line10 磁碟區 C 中的磁碟沒有標籤。
+
+
+磁碟區 C 中的磁碟沒有標籤。
  磁碟區序號:  0C62-F716
 
  c:\Mygit\repo1 的目錄
